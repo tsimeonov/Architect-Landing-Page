@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Museum-of-candy/
+- Live Site URL: https://tsimeonov.github.io/Architect-Landing-Page/
 
 ## My process
 
