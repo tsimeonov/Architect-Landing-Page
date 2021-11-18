@@ -15,8 +15,6 @@ Users should be able to:
 
 - Live Site URL: https://tsimeonov.github.io/Architect-Landing-Page/
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
